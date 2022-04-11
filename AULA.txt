@@ -1,0 +1,5 @@
+HTML -> Hypertext Markup Language
+
+CSS -> Cascade StyleSheet
+
+JavaScript -> Linguagem de programação
