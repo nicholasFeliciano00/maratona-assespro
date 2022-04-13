@@ -1,0 +1,31 @@
+/*
+CSS - Cascading StyleSheet
+
+SELETORES
+
+TAG - Elemento HTML
+CLASSE - Classes de estilos
+ID - Identificador
+----------------------
+SELETOR {
+    PROPRIEDADE: VALOR;
+    PROPRIEDADE: VALOR;
+}
+----------------------
+tag {
+    propriedade: valor
+}
+.classe {
+    propriedade: valor;    
+}
+#id {
+    propriedade: valor;
+}
+------------------------------------
+
+
+*/
+
+body {
+    background-color: #828282;
+}
